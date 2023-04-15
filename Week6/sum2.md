@@ -9,7 +9,7 @@ int main(void)
 {
     int i, n, sum;
 
-    printf("정수를 입력하쇼: \n");
+    printf("정수를 입력하쇼: ");
     scanf("%d", &n);
 
     i = 0;
